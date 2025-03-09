@@ -2,24 +2,25 @@
 JS Prep Hub is a JavaScript-focused repository that provides handcrafted coding challenges and utilities ranging from basic concepts to advanced problem-solving techniques. Whether you are a beginner learning JavaScript or a developer preparing for coding interviews, this repository has structured implementations, unit tests, and best practices to help you excel
 
 ## 📌 JavaScript Questions in JS Prep Hub
-1️⃣ JSON Handling
-- Implement stringify(obj) – Convert objects to JSON-like strings.
-- Implement parse(json) – Parse a JSON string back into an object.
-2️⃣ Deep Comparison & Cloning
-- Implement deepEqual(obj1, obj2) – Compare two objects deeply.
-- Implement deepClone(obj) – Create a deep copy of an object.
-- Implement deepMerge(target, ...sources) – Merge multiple objects deeply.
-3️⃣ Object Handling
-- Implement ObjectIs(value1, value2) – Custom implementation of Object.is().
-4️⃣ Array Manipulation
-- Implement flattenArray(array, depth) – Flatten a nested array up to a given depth
+- 1️⃣ JSON Handling
+  - Implement stringify(obj) – Convert objects to JSON-like strings.
+  - Implement parse(json) – Parse a JSON string back into an object.
+- 2️⃣ Deep Comparison & Cloning
+  - Implement deepEqual(obj1, obj2) – Compare two objects deeply.
+  - Implement deepClone(obj) – Create a deep copy of an object.
+  - Implement deepMerge(target, ...sources) – Merge multiple objects deeply.
+- 3️⃣ Object Handling
+  - Implement ObjectIs(value1, value2) – Custom implementation of Object.is().
+- 4️⃣ Array Manipulation
+  - Implement flattenArray(array, depth) – Flatten a nested array up to a given depth
+- And many more to come soon
 
 ## 💡 What’s Inside?
-✔️ Custom Implementations of JavaScript built-in methods like JSON.stringify(), JSON.parse(), Object.is(), and more.
-✔️ Deep Comparison & Cloning utilities (deepEqual(), deepClone(), deepMerge()).
-✔️ Array Manipulation helpers (flattenArray() and custom merging functions).
-✔️ Test-Driven Development (TDD) approach with Jest unit tests for each implementation.
-✔️ Branch protection and collaboration rules to ensure secure contributions.
+- ✔️ Custom Implementations of JavaScript built-in methods like JSON.stringify(), JSON.parse(), Object.is(), and more.
+- ✔️ Deep Comparison & Cloning utilities (deepEqual(), deepClone(), deepMerge()).
+- ✔️ Array Manipulation helpers (flattenArray() and custom merging functions).
+- ✔️ Test-Driven Development (TDD) approach with Jest unit tests for each implementation.
+- ✔️ Branch protection and collaboration rules to ensure secure contributions.
 
 ## How to Use
 ### Clone the repository:
