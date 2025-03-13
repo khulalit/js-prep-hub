@@ -20,7 +20,6 @@ JS Prep Hub is a JavaScript-focused repository that provides handcrafted coding 
 - ✔️ Deep Comparison & Cloning utilities (deepEqual(), deepClone(), deepMerge()).
 - ✔️ Array Manipulation helpers (flattenArray() and custom merging functions).
 - ✔️ Test-Driven Development (TDD) approach with Jest unit tests for each implementation.
-- ✔️ Branch protection and collaboration rules to ensure secure contributions.
 
 ## How to Use
 ### Clone the repository:
